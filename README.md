@@ -1,17 +1,21 @@
-![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
 
-<a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
-
-> ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
-
-[![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
-
-
-> ### Any DBMS OR WEB TECHNOLOGIES (php, django, angular or react) or MachineLearning projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit : http://www.notes4free.in/services.html
-
+>
 # online shopping system advanced
-
 online shopping system is a [DBMS project] with both admin and user layouts.
+
+## PROBLEM STATEMENT
+Education system has been effectively shifted to online forums in today’s world. Starting from online examinations to augmented reality labs, we have moved a long way. Even though a lot has changed, the books are the golden oldies of the education system. But in this world of crash-courses and youtube videos, it’s hard to find the appropriate books to suffice our needs. We plan to provide a one-stop solution for this struggle by providing personalized solutions for anyone and everyone when it comes to education.
+
+## SOLUTION
+1. We want to provide an online platform to provide books personalised for every individual.
+2. It will provide support to efficient learning, thus enhancing user experience
+3. Users would be able to make separate orders for books which aren't available in stores or other online platforms easily.
+4. Using Chatbots to understand the requirements of the user.
+5. Collecting data from users and using ML model to get personalized effects
+6. We can also implement a section of non-educational books, by following popular trends and personalized choices.
+7. We will also create a window for donating used books and then we can provide those books to the needy
+
+
 
 ## Installation
 
@@ -19,13 +23,13 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-advanced.git).
+3. Download project from github(https://github.com/Saloni1771/online-e-book.git).
  
  OR follow gitbash commands
 
     i>cd C:\\xampp\htdocs\
 
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
+    ii>git clone https://github.com/Saloni1771/online-e-book.git
 
 4. extract files in C:\\xampp\htdocs\.
 
@@ -37,23 +41,13 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 8. after creating database name click on import.
 
-9. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
+9. browse the file in directory [online-e-book/database/onlineshop.sql].
 
-10. open any browser and type http://localhost/online-shopping-system-advanced-master.
+10. open any browser and type http://localhost/online-e-book.
 
 11.first register and then login
 
 12. admin login details  Email=admin@gmail.com and Password=123456789.
-
-## If you like my project 
-
-### Google pay or phonepay number 8101610659.
-
-
-
-
-## If you like my project hit a start
-
 
 
 
@@ -66,7 +60,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-##Credits
+## Credits
 Humble appriciation of the repositry made by Mr. Punneth Reddy, from where we took inspiration for this project. https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
 
 
