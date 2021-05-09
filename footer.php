@@ -10,9 +10,9 @@
 								<h3 class="footer-title">About Us</h3>
 								<p>This is my Small Database Management System mini project</p>
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>Bangalore ,Kumbalagodu</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+91-9535688928</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>puneethreddy951@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>Indore</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+91-7394941405</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>patidarsaloni22@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
@@ -27,7 +27,7 @@
 							</ul>
 							<span class="copyright">
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">PuneethRdddyHC</a>
+								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">HaShTag3</a>
 							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</span>
 						</div>
@@ -36,11 +36,10 @@
 							<div class="footer">
 								<h3 class="footer-title">Categories</h3>
 								<ul class="footer-links">
-									<li><a href="#">Mobiles</a></li>
-									<li><a href="#">Men</a></li>
-									<li><a href="#">Women</a></li>
-									<li><a href="#">Kids</a></li>
-									<li><a href="#">Accessories</a></li>
+									<li><a href="#">Text books</a></li>
+									<li><a href="#"> Reference Books</a></li>
+									<li><a href="#">Novel</a></li>
+									
 								</ul>
 							</div>
 						</div>
