@@ -122,9 +122,9 @@ session_start();
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i> +91-9535688928</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> puneethreddy951@gmail.com</a></li>
-						<li><a href="#"><i class="fa fa-map-marker"></i>Bangalore</a></li>
+						<li><a href="#"><i class="fa fa-phone"></i> +91-7394941405</a></li>
+						<li><a href="#"><i class="fa fa-envelope-o"></i> patidarsaloni22@gmail.com</a></li>
+						<li><a href="#"><i class="fa fa-map-marker"></i>Indore</a></li>
 					</ul>
 					<ul class="header-links pull-right">
 						<li><a href="#"><i class="fa fa-inr"></i> INR</a></li>
@@ -193,8 +193,9 @@ session_start();
 								<form>
 									<select class="input-select">
 										<option value="0">All Categories</option>
-										<option value="1">Men</option>
-										<option value="1">Women </option>
+										<option value="1">Text books</option>
+										<option value="1">Reference books</option>
+										<option value="1">Novel</option>
 									</select>
 									<input class="input" id="search" type="text" placeholder="Search here">
 									<button type="submit" id="search_btn" class="search-btn">Search</button>
@@ -208,7 +209,7 @@ session_start();
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="https://github.com/puneethreddyhc">
+									<a href="https://github.com/Saloni1771">
 										<i class="fa fa-github"></i>
 										<span>Github</span>
 										
